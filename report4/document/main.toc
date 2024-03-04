@@ -1,0 +1,48 @@
+\contentsline {section}{차\nobreakspace {}례}{2}{section*.1}%
+\contentsline {section}{\numberline {1}Question 17}{3}{section.0.1}%
+\contentsline {subsection}{\numberline {1.1}길이가 $1$인 경로들을 모두 나열하라.}{4}{subsection.0.1.1}%
+\contentsline {subsection}{\numberline {1.2}정점 $2$에서 시작하여 길이가 $2$인 경로들을 모두 나열하라.}{4}{subsection.0.1.2}%
+\contentsline {subsection}{\numberline {1.3}정점 $3$에서 시작하여 길이가 $3$인 경로들을 모두 나열하라.}{4}{subsection.0.1.3}%
+\contentsline {subsection}{\numberline {1.4}정점 $2$에서 시작하는 모든 순환을 구하라.}{5}{subsection.0.1.4}%
+\contentsline {subsection}{\numberline {1.5}정점 $6$에서 시작하는 모든 순환을 구하라.}{5}{subsection.0.1.5}%
+\contentsline {subsection}{\numberline {1.6}길이가 $2$인 경로들을 모두 나열하라.}{5}{subsection.0.1.6}%
+\contentsline {subsection}{\numberline {1.7}길이가 $3$인 경로들을 모두 나열하라.}{5}{subsection.0.1.7}%
+\contentsline {subsection}{\numberline {1.8}$R^2$의 유향 그래프를 그려라.}{6}{subsection.0.1.8}%
+\contentsline {subsection}{\numberline {1.9}$M_{R^2}$, $R^\infty $, $M_{R^\infty }$을 구하라.}{7}{subsection.0.1.9}%
+\contentsline {section}{\numberline {2}Question 26}{9}{section.0.2}%
+\contentsline {subsection}{\numberline {2.1}$A = \mathbb Z,\ R = \left \{ (a,b) \in A \times A \mid a \leq b + 1 \right \}$}{10}{subsection.0.2.1}%
+\contentsline {paragraph}{반사 관계}{10}{section*.2}%
+\contentsline {paragraph}{비반사 관계}{10}{section*.3}%
+\contentsline {paragraph}{대칭 관계}{10}{section*.4}%
+\contentsline {paragraph}{비대칭 관계}{10}{section*.5}%
+\contentsline {paragraph}{반대칭 관계}{10}{section*.6}%
+\contentsline {paragraph}{추이 관계}{11}{section*.7}%
+\contentsline {subsection}{\numberline {2.2}$A = \mathbb Z^+,\ R = \left \{ (a,b) \in A \times A \mid |a-b| \leq 2 \right \}$}{11}{subsection.0.2.2}%
+\contentsline {paragraph}{반사 관계}{11}{section*.8}%
+\contentsline {paragraph}{비반사 관계}{11}{section*.9}%
+\contentsline {paragraph}{대칭 관계}{11}{section*.10}%
+\contentsline {paragraph}{비대칭 관계}{11}{section*.11}%
+\contentsline {paragraph}{반대칭 관계}{12}{section*.12}%
+\contentsline {paragraph}{추이 관계}{12}{section*.13}%
+\contentsline {subsection}{\numberline {2.3}$A = \mathbb Z,\ R = \left \{ (a,b) \in A \times A \mid a + b\textrm {는 짝수} \right \}$}{12}{subsection.0.2.3}%
+\contentsline {paragraph}{반사 관계}{12}{section*.14}%
+\contentsline {paragraph}{비반사 관계}{12}{section*.15}%
+\contentsline {paragraph}{대칭 관계}{12}{section*.16}%
+\contentsline {paragraph}{비대칭 관계}{12}{section*.17}%
+\contentsline {paragraph}{반대칭 관계}{12}{section*.18}%
+\contentsline {paragraph}{추이 관계}{13}{section*.19}%
+\contentsline {subsection}{\numberline {2.4}$A = \mathbb Z,\ R = \left \{ (a,b) \in A \times A \mid |a-b| = 2 \right \}$}{13}{subsection.0.2.4}%
+\contentsline {paragraph}{반사 관계}{13}{section*.20}%
+\contentsline {paragraph}{비반사 관계}{13}{section*.21}%
+\contentsline {paragraph}{대칭 관계}{13}{section*.22}%
+\contentsline {paragraph}{비대칭 관계}{13}{section*.23}%
+\contentsline {paragraph}{반대칭 관계}{14}{section*.24}%
+\contentsline {paragraph}{추이 관계}{14}{section*.25}%
+\contentsline {subsection}{\numberline {2.5}$A = \textrm {모든 실수의 집합},\ R = \left \{ (a,b) \in A \times A \mid a^2 + b^2 = 4 \right \}$}{14}{subsection.0.2.5}%
+\contentsline {paragraph}{반사 관계}{14}{section*.26}%
+\contentsline {paragraph}{비반사 관계}{14}{section*.27}%
+\contentsline {paragraph}{대칭 관계}{15}{section*.28}%
+\contentsline {paragraph}{비대칭 관계}{15}{section*.29}%
+\contentsline {paragraph}{반대칭 관계}{15}{section*.30}%
+\contentsline {paragraph}{추이 관계}{15}{section*.31}%
+\contentsline {section}{\numberline {3}Question 53}{16}{section.0.3}%
